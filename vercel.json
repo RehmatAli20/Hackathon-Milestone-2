@@ -1,3 +1,4 @@
 {
-    "REWRTIES":[{"SOURCE":"/(.*)","DESTINATION":"/"}]
+    "version":2,
+    "public":true
 }
